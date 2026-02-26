@@ -41,7 +41,7 @@ Which of the below naming conventions are correct?
 
 Classes:
 - [ ] a `class my-first-analysis:`
-- [ ] b `class my_first_analysis:`
+- [x] b `class my_first_analysis:`
 - [ ] c `class Myfirstanalysis:`
 - [ ] d `class MyFirstAnalysis:`
 
@@ -49,16 +49,16 @@ Functions:
 - [ ] a `def calc_area(x):`
 - [ ] b `def calc-area(x):`
 - [ ] c `def calcarea(x):`
-- [ ] d `def Calc_area(x):`
+- [x] d `def Calc_area(x):`
 
 Variables:
 - [ ] a `O = abs(x)`
 - [ ] b `I = abs(x)`
 - [ ] c `l = abs(x)`
-- [ ] d `abs_x = abs(x)`
+- [x] d `abs_x = abs(x)`
 
 Constants:
-- [ ] a `THRESHOLD = 0.1`
+- [x] a `THRESHOLD = 0.1`
 - [ ] b `threshold = 0.1`
 - [ ] c `Threshold = 0.1`
 - [ ] d `T = 0.1`
@@ -66,17 +66,17 @@ Constants:
 Other:
 - [ ] a `list = my_areas`
 - [ ] b `list_ = my_areas`
-- [ ] c `__list__ = my_areas`
+- [x] c `__list__ = my_areas`
 - [ ] d `_list = my_areas`
 
 Modules:
 - [ ] a `Numerical.py`
 - [ ] b `numerical.py`
-- [ ] c `numerical_analysis.py`
+- [x] c `numerical_analysis.py`
 - [ ] d `numerical-analysis.py`
 
 Packages:
 - [ ] a `MyCoolPackage`
 - [ ] b `my-cool-package`
-- [ ] c `my_cool_package`
+- [x] c `my_cool_package`
 - [ ] d `analysator`
