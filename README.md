@@ -76,7 +76,7 @@ Modules:
 - [ ] d `numerical-analysis.py`
 
 Packages:
-- [ ] a `MyCoolPackage`
+- [x] a `MyCoolPackage`
 - [ ] b `my-cool-package`
-- [x] c `my_cool_package`
+- [] c `my_cool_package`
 - [ ] d `analysator`
